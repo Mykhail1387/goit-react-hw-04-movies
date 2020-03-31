@@ -1,0 +1,1 @@
+{"version":3,"sources":["searchForm.module.css"],"names":[],"mappings":"AAAA,yBACE,WAAY,CACZ,eAAgB,CAChB,eAAgB,CAChB,cACF","file":"MoviesPage.d5206d26.chunk.css","sourcesContent":[".input {\r\n  width: 300px;\r\n  line-height: 1.4;\r\n  margin: 10px 2px;\r\n  font-size: 15px;\r\n}\r\n"]}

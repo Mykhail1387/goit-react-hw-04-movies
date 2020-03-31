@@ -1,0 +1,1 @@
+{"version":3,"sources":["Reviews.module.css"],"names":[],"mappings":"AAAA,qBACE,cAAe,CACf,gBACF,CAEA,uBACE,eAAgB,CAChB,iBACF,CAEA,qBACE,iBACF","file":"Reviews.0e28af46.chunk.css","sourcesContent":[".text {\r\n  font-size: 20px;\r\n  padding-top: 20px;\r\n}\r\n\r\n.author {\r\n  line-height: 3.2;\r\n  padding-left: 30px;\r\n}\r\n\r\n.cont {\r\n  padding-left: 30px;\r\n}\r\n"]}

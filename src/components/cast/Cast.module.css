@@ -1,0 +1,16 @@
+.list {
+  padding-left: 30px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+}
+
+.text {
+  line-height: 2.2;
+}
+
+.img {
+  padding-top: 20px;
+}
